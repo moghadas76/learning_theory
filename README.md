@@ -11,3 +11,6 @@ Repository for Deep Learning Theory materials
 
 ## Courses
 [TBC]
+
+## Contribution
+Please Send your Pull Request. But Make sure to have descriptive summary
