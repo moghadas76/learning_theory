@@ -1,5 +1,5 @@
-# learning_theory
-Repository for Deep Learning Theory materials
+# Learning Theory
+Repository for Machine Learning, Statistical, and Deep Theory materials
 
 
 ## Podcasts
