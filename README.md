@@ -1,4 +1,4 @@
-# Learning Theory
+# Learning Theory Resources
 Repository for Machine Learning, Statistical, and Deep Theory materials
 
 
