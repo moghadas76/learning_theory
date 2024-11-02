@@ -14,5 +14,10 @@ Repository for Machine Learning, Statistical, and Deep Theory materials
 ## Courses
 [TBC]
 
+## Flashcards
+
+### Principals of Deep Learning Theory
+* [Chapter 1(p 9-29)](https://www.memo.cards/explore/a956876a-a7fc-4d9c-8529-84de5397b485)
+
 ## Contribution
 Please Send your Pull Request. But Make sure to include descriptive summary
