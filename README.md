@@ -23,7 +23,7 @@ Repository for Machine Learning, Statistical, and Deep Learning Theory materials
 * [Sho Yaida](https://www.shoyaida.com/)
 
 
-## Yotube
+## Youtube
 
 * [Iaifi](https://www.youtube.com/@iaifiinstituteforaifundame3333/videos)
 
