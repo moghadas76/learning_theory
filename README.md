@@ -15,6 +15,18 @@ Repository for Machine Learning, Statistical, and Deep Learning Theory materials
 ## Courses
 [TBC]
 
+
+## Website
+
+* [Dan Roberts](https://danintheory.com/)
+* [Sho Yaida](https://www.shoyaida.com/)
+
+
+## Yotube
+
+* [Iaifi](https://www.youtube.com/@iaifiinstituteforaifundame3333/videos)
+
+
 ## Flashcards
 
 ### Principals of Deep Learning Theory
