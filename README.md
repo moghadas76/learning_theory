@@ -10,7 +10,7 @@ Repository for Machine Learning, Statistical, and Deep Learning Theory materials
 
 ## Books
 
-* [Principles of deep learning theory](https://arxiv.org/pdf/2106.10165)
+* [Principles of deep learning theory: An Effective Theory Approach to Understanding Neural Networks](https://arxiv.org/pdf/2106.10165)
 
 ## Courses
 [TBC]
