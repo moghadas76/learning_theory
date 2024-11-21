@@ -1,4 +1,5 @@
-# Learning Theory Resources
+# Awesome Learning Theory
+
 Repository for Machine Learning, Statistical, and Deep Learning Theory materials
 
 
