@@ -28,6 +28,12 @@ Repository for Machine Learning, Statistical, and Deep Learning Theory materials
 * [Iaifi](https://www.youtube.com/@iaifiinstituteforaifundame3333/videos)
 
 
+
+## Papers
+
+* [KDE journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10845093)
+
+
 ## Flashcards
 
 ### Principals of Deep Learning Theory
