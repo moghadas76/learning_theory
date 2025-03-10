@@ -1,6 +1,6 @@
 # Awesome Learning Theory
 
-Repository for Machine Learning, Statistical, and Deep Learning Theory materials.
+Repository for Machine Learning, Statistical, and Deep Learning Theory materials and etc..
 
 
 ## Podcasts
