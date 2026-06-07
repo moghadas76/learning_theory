@@ -33,6 +33,7 @@ Repository for Machine Learning, Statistical, and Deep Learning Theory materials
 
 * [KDE journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10845093)
 
+* [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691) (2026) — A perspective paper arguing that a predictive scientific theory of deep learning ("learning mechanics") is emerging through empirical laws, tractable limits, idealized settings, hyperparameter theories, and universal behaviors.
 
 ## Flashcards
 
